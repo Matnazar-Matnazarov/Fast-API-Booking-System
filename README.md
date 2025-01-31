@@ -17,7 +17,7 @@ This project is a simple FastAPI application that demonstrates the use of middle
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fastapi-project.git
+    git clone https://github.com/Matnazar-Matnazarov/Fast-API-Booking-System.git
     cd fastapi-project
     ```
 
